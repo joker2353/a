@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase_connect</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">click_to_login</string>
+    <string name="click_to_register">click_to_register</string>
+    <string name="logout">Logout</string>
+</resources>
